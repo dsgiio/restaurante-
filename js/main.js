@@ -1,6 +1,6 @@
 /**
 * Template Name: Restaurantly
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
+* Updated: Sep 20 2023 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
